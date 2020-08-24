@@ -1,0 +1,12 @@
+body
+{
+    background:url("./post_fitness.jpg") no-repeat;
+    background-size: cover;
+}
+form label{
+    color:white ;
+}
+.form-container{
+    width:50%;
+    margin:2%;
+}
